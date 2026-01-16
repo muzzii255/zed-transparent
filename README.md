@@ -162,6 +162,7 @@ Your theme JSON file should follow this structure:
 
 1. **Validate theme structure**: Ensure all required fields are present
 2. **Check color format**: Colors should be in hex format (`#rrggbb` or `#rrggbbaa`)
+2. **Change Transparency**: Transparency can be changed by editing the alpha values of background colors
 3. **Restart required**: Some theme changes require a Zed restart
 
 ## Tips
